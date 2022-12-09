@@ -1,0 +1,4 @@
+﻿  HW11_201823871.c
+C:\Users\82104\source\repos\소스-과제11\소스-과제11\HW11_201823871.c(77,13): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82104\source\repos\소스-과제11\소스-과제11\HW11_201823871.c(21,7): warning C4101: 'buffer' :참조되지 않은 지역 변수입니다.
+  소스-과제11.vcxproj -> C:\Users\82104\source\repos\소스-과제11\Debug\소스-과제11.exe

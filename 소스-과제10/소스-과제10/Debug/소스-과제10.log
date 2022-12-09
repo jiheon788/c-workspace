@@ -1,0 +1,6 @@
+﻿  HW10_201823871.c
+C:\Users\82104\source\repos\소스-과제10\소스-과제10\HW10_201823871.c(110,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\82104\source\repos\소스-과제10\소스-과제10\HW10_201823871.c(138,14): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\82104\source\repos\소스-과제10\소스-과제10\HW10_201823871.c(141,17): warning C4047: '<': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\82104\source\repos\소스-과제10\소스-과제10\HW10_201823871.c(143,16): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+  소스-과제10.vcxproj -> C:\Users\82104\source\repos\소스-과제10\Debug\소스-과제10.exe
